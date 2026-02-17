@@ -1,0 +1,21 @@
+# Core
+requests==2.31.0
+colorama==0.4.6
+pyyaml==6.0.1
+jinja2==3.1.2
+argparse==1.4.0
+
+# Domain recon
+python-whois==0.9.4
+dnspython==2.4.2
+
+# Shodan
+shodan==1.31.0
+
+# Web scraper
+beautifulsoup4==4.12.3
+lxml==5.1.0
+builtwith==1.3.3
+
+# Port scanner (nmap wrapper)
+python-nmap==0.7.1
