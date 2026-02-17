@@ -1,0 +1,15 @@
+www
+mail
+ftp
+admin
+api
+dev
+staging
+test
+vpn
+remote
+portal
+shop
+blog
+cdn
+app

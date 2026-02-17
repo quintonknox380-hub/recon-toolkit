@@ -1,0 +1,11 @@
+api_keys:
+  shodan: HRT0DqsZmR5oliFZHYNKaq2m3FxYnGFn
+  hibp: db192f959742455f98106687df692c68
+  hunter: "YOUR_HUNTER_IO_API_KEY"
+  emailrep: "YOUR_EMAILREP_API_KEY"
+
+settings:
+  output_dir: "results/"
+  timeout: 10
+  verbose: true
+  rate_limit_delay: 1.5   # seconds between API calls
